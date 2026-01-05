@@ -17,9 +17,6 @@ This repository contains the complete ecosystem for Mailpilot, including a robus
 ### 🖥️ Frontend Dashboard
 ![Frontend](frontend.png)
 
-### 🧩 Chrome Extension
-![Extension](extension.png)
-
 ### 💬 Extension Popup
 ![Extension Popup](extensionpop.png)
 
