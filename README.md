@@ -12,6 +12,20 @@ This repository contains the complete ecosystem for Mailpilot, including a robus
 * **Secure Backend**: API key management and request processing handled securely via Java Spring Boot.
 * **Browser Extension**: Works directly inside your email client for a frictionless experience.
 
+* ## 📸 Screenshots
+
+### 🖥️ Frontend Dashboard
+![Frontend](screenshots/frontend.png)
+
+### 🧩 Chrome Extension
+![Extension](screenshots/extension.png)
+
+### 💬 Extension Popup
+![Extension Popup](screenshots/extensionpop.png)
+
+### 💬 Ai-generated reply
+![Ai-generated reply](ai-powered-reply.png)
+
 ## 🛠️ Tech Stack
 
 ### **Backend**
